@@ -16,7 +16,7 @@ This project is a Power BI dashboard created for analyzing hotel booking data an
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard-image.png)
 
 ## Project Files
 - PBIX dashboard file
